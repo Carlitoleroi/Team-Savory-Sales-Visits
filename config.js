@@ -1,6 +1,6 @@
 window.APP_CONFIG = {
   supabaseUrl: 'https://wlugqovwpfqonmvmzjcfd.supabase.co',
-  supabaseAnonKey: 'PASTE_YOUR_FULL_SB_PUBLISHABLE_KEY_HERE',
+  supabaseAnonKey: 'sb_publishable_eZXZsiH3JP0-Di712fGQyg_DH5V5oRN',
   companyName: 'Team Savory',
   appName: 'Sales Visits',
   currency: 'USD',
